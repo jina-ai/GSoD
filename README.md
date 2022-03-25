@@ -1,5 +1,5 @@
 # GSoD
-Google Season of Docs 2022 
+[Google Season of Docs](https://developers.google.com/season-of-docs) is an annual program by Google that provides support for open source projects to improve their documentation and gives professional technical writers an opportunity to gain experience in open source.
 
 ### **Table of contents**
 
