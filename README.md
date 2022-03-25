@@ -1,7 +1,7 @@
 # GSoD
 [Google Season of Docs](https://developers.google.com/season-of-docs) is an annual program by Google that provides support for open source projects to improve their documentation and gives professional technical writers an opportunity to gain experience in open source.
 
-Jina has applied to participate in[Google Season of Docs](https://developers.google.com/season-of-docs) 2022!. GSoD aims at empowering open source projects through documentation and provides professional technical writers a chance to contribute to open source.
+Jina has applied to participate in [Google Season of Docs](https://developers.google.com/season-of-docs) 2022!. GSoD aims at empowering open source projects through documentation and provides professional technical writers a chance to contribute to open source.
 
 We will be having slots open for one technical writer who will work closely with a mentor from Jina and improve our Learning Portal. So, if you are a technical writer, we invite you to take part in this program with us. We hope to have a productive summer with the technical writers who come on board with us! 
 
@@ -37,7 +37,7 @@ Jina has a [slack](https://slack.jina.ai/) channel where every person from our t
 
 ### **Project idea**
 
-We maintain our documentation regularly and recently have developed our own free bootcamp on our [Learning Portal](https://learn.jina.ai/). Every newcomer in the community is made aware of neural search and they are directed to a free bootcamp on the[Learning portal](https://learn.jina.ai/) where they can learn new concepts, practice them with quizzes, win certificates and get ahead in their learning.
+We maintain our documentation regularly and recently have developed our own free bootcamp on our [Learning Portal](https://learn.jina.ai/). Every newcomer in the community is made aware of neural search and they are directed to a free bootcamp on the [Learning portal](https://learn.jina.ai/) where they can learn new concepts, practice them with quizzes, win certificates and get ahead in their learning.
 
 Recently, Jina migrated from v2.6 to v3.0 and it now allows support for integrations with different vector databases. Following these changes, a lot of new content was generated. And, we would like to take help of a technical writer who can restructure the Learning Portal for accommodating new content, add the updated content, make it more user friendly and help us in improving the way we spread information. The technical writer will be mentored by 3-4 core members of Jina.
 
