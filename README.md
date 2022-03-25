@@ -1,6 +1,10 @@
 # GSoD
 [Google Season of Docs](https://developers.google.com/season-of-docs) is an annual program by Google that provides support for open source projects to improve their documentation and gives professional technical writers an opportunity to gain experience in open source.
 
+Jina has applied to participate in[Google Season of Docs](https://developers.google.com/season-of-docs) 2022!. GSoD aims at empowering open source projects through documentation and provides professional technical writers a chance to contribute to open source.
+
+We will be having slots open for one technical writer who will work closely with a mentor from Jina and improve our Learning Portal. So, if you are a technical writer, we invite you to take part in this program with us. We hope to have a productive summer with the technical writers who come on board with us! 
+
 ### **Table of contents**
 
 - [**Introduction**](#introduction)
@@ -15,10 +19,7 @@
 - [**List of mentors**](#5sy76pb4a7en)
 
 ### **Introduction**
-
-Jina has applied to participate in[Google Season of Docs](https://developers.google.com/season-of-docs) 2022!. GSoD aims at empowering open source projects through documentation and provides professional technical writers a chance to contribute to open source.
-
-We will be having slots open for one technical writer who will work closely with a mentor from Jina and improve our Learning Portal. So, if you are a technical writer, we invite you to take part in this program with us. We hope to have a productive summer with the technical writers who come on board with us!
+Jina is a neural search framework that empowers anyone to build SOTA and scalable neural search applications in minutes. A detailed description of Jina can be found [here](https://github.com/jina-ai/jina).
 
 ### **Timeline**
 
