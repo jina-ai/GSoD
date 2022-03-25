@@ -13,10 +13,10 @@ We will be having slots open for one technical writer who will work closely with
 - [**Project idea**](#project-idea)
 - [**Project scope**](#project-scope)
 - [**Skills required**](#8ud4368gz5uf)
-- [**Writing the proposal**](#gztt6jmw0svh)
-- [**What makes a strong proposal**](#h2d0kmgdv8f9)
-- [**How to apply**](#8lg9babvcef)
-- [**List of mentors**](#5sy76pb4a7en)
+- [**Project Budget**](#project-budget)
+- [**Writing the proposal**](#writing-the-proposal)
+- [**What makes a strong proposal**](#what-makes-a-strong-proposal)
+- [**How to apply**](#how-to-apply)
 
 ### **Introduction**
 Jina is a neural search framework that empowers anyone to build SOTA and scalable neural search applications in minutes. A detailed description of Jina can be found [here](https://github.com/jina-ai/jina).
@@ -64,6 +64,13 @@ The following tasks are included in the project scope:
 4. Communication skills
 5. Ability to understand user experience and interest in improving the user experience
 6. AI/ML background is a plus but not required.
+
+### **Project Budget**
+
+| Budget Item | Amount | Running total | Notes/justification |
+| --- | --- | --- | --- |
+| Technical writer | $5000 | $5000 | One technical writer |
+| Schwags from Jina | $0 | $5000 | Jina will provide some authentic schwags for the technical writer as a token of appreciation. |
 
 ### **Writing the proposal**
 
