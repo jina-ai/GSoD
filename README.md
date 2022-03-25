@@ -3,9 +3,9 @@ Google Season of Docs 2022
 
 ### **Table of contents**
 
-- [**Introduction**](#qd58c0qqskqu)
-- [**Timeline**](#pjr39hx6efvy)
-- [**Support**](#q66puwlzexqv)
+- [**Introduction**](#introduction)
+- [**Timeline**](#timeline)
+- [**Support**](#support)
 - [**Project idea**](#jd8xxbrf2un8)
 - [**Project scope**](#olmb68n1te9d)
 - [**Skills required**](#8ud4368gz5uf)
