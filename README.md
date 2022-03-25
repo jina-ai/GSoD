@@ -24,16 +24,11 @@ We will be having slots open for one technical writer who will work closely with
 
 | Date | Phase | Information about the phase |
 | --- | --- | --- |
-| 16th April - 26th April | Project discussion
- | Technical writers can discuss the potential timeline and ideas with the mentors and can also ask for feedback on their proposal draft. |
-| 26th April - 9th May | Proposal submission
- | The proposal should be submitted in a pdf format via email to [jyoti.bisht@jina.ai](mailto:jyoti.bisht@jina.ai) before the deadline. |
-| 9th May 2022 , 11:59 PM CET | Deadline for proposal submission
- | All proposals should be submitted before the deadline. |
-| 10th May - 14th May | Proposal review
- | The proposal will be reviewed by Jina and the suitable technical writer will be selected |
-| 15th May 2022, 5:00 PM CET | Announcement of technical writer selected | The organization will announce the selected technical writer via email and also on slack channel.
- |
+| 16th April - 26th April | Project discussion | Technical writers can discuss the potential timeline and ideas with the mentors and can also ask for feedback on their proposal draft.|
+| 26th April - 9th May | Proposal submission | The proposal should be submitted in a pdf format via email to [jyoti.bisht@jina.ai](mailto:jyoti.bisht@jina.ai) before the deadline. |
+| 9th May 2022 , 11:59 PM CET | Deadline for proposal submission| All proposals should be submitted before the deadline. |
+| 10th May - 14th May | Proposal review | The proposal will be reviewed by Jina and the suitable technical writer will be selected |
+| 15th May 2022, 5:00 PM CET | Announcement of technical writer selected | The organization will announce the selected technical writer via email and also on slack channel.|
 
 **Support**
 
