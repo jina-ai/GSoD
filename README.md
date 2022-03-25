@@ -1,7 +1,7 @@
 # GSoD
 Google Season of Docs 2022 
 
-**Table of contents**
+### **Table of contents**
 
 - [**Introduction**](#qd58c0qqskqu)
 - [**Timeline**](#pjr39hx6efvy)
@@ -14,27 +14,27 @@ Google Season of Docs 2022
 - [**How to apply**](#8lg9babvcef)
 - [**List of mentors**](#5sy76pb4a7en)
 
-**Introduction**
+### **Introduction**
 
 Jina has applied to participate in[Google Season of Docs](https://developers.google.com/season-of-docs) 2022!. GSoD aims at empowering open source projects through documentation and provides professional technical writers a chance to contribute to open source.
 
 We will be having slots open for one technical writer who will work closely with a mentor from Jina and improve our Learning Portal. So, if you are a technical writer, we invite you to take part in this program with us. We hope to have a productive summer with the technical writers who come on board with us!
 
-**Timeline**
+### **Timeline**
 
 | Date | Phase | Information about the phase |
 | --- | --- | --- |
 | 16th April - 26th April | Project discussion | Technical writers can discuss the potential timeline and ideas with the mentors and can also ask for feedback on their proposal draft.|
-| 26th April - 9th May | Proposal submission | The proposal should be submitted in a pdf format via email to [jyoti.bisht@jina.ai](mailto:jyoti.bisht@jina.ai) before the deadline. |
+| 26th April - 9th May | Proposal submission | The proposal should be submitted in a pdf format via email to [devrel@jina.ai](mailto:jyoti.bisht@jina.ai) before the deadline. |
 | 9th May 2022 , 11:59 PM CET | Deadline for proposal submission| All proposals should be submitted before the deadline. |
 | 10th May - 14th May | Proposal review | The proposal will be reviewed by Jina and the suitable technical writer will be selected |
 | 15th May 2022, 5:00 PM CET | Announcement of technical writer selected | The organization will announce the selected technical writer via email and also on slack channel.|
 
-**Support**
+### **Support**
 
 Jina has a [slack](https://slack.jina.ai/) channel where every person from our team is very active in answering questions, resolving doubts and communicating. Please join the slack channel, introduce yourself and ask any questions that you might have.
 
-**Project idea**
+### **Project idea**
 
 We maintain our documentation regularly and recently have developed our own free bootcamp on our [Learning Portal](https://learn.jina.ai/). Every newcomer in the community is made aware of neural search and they are directed to a free bootcamp on the[Learning portal](https://learn.jina.ai/) where they can learn new concepts, practice them with quizzes, win certificates and get ahead in their learning.
 
@@ -42,7 +42,7 @@ Recently, Jina migrated from v2.6 to v3.0 and it now allows support for integrat
 
 The key aspect in learning Jina and neural search is our Learning Portal which we plan to update, restructure and overall, re-develop from scratch this year. This not only keeps our goal of open source educational content fulfilled but also helps provide our team useful insights for user experience.
 
-**Project scope**
+### **Project scope**
 
 The following tasks are included in the project scope:
 
@@ -55,7 +55,7 @@ The following tasks are included in the project scope:
 7. Create an introductory blog post explaining the learning portal, the navigation, the benefits and next steps (post completing of bootcamp)
 8. Sync the new documentation set with the code to support continuous integration with code changes. Since Jina changes and the functions do too, it is only beneficial to make the upgradation process automatic.
 
-**Skills required**
+### **Skills required**
 
 1. Technical documentation
 2. Python experience
@@ -64,7 +64,7 @@ The following tasks are included in the project scope:
 5. Ability to understand user experience and interest in improving the user experience
 6. AI/ML background is a plus but not required.
 
-**Writing the proposal**
+### **Writing the proposal**
 
 Your proposal should contain the following information. Any other information that you wish to add is optional. Please make sure your proposal contains everything we might need to know about your experience and skills so that we can make an informed decision.
 
@@ -76,7 +76,7 @@ Your proposal should contain the following information. Any other information th
 6. Communication details and preferred mode of communication
 7. Proposed budget (for the entire project)
 
-**What makes a strong proposal?**
+### **What makes a strong proposal?**
 
 For having a strong proposal, we believe that:
 
@@ -86,6 +86,6 @@ For having a strong proposal, we believe that:
 4. The proposal also has clear, unambiguous goals and objectives.
 5. Lastly, the proposal in itself should depict the writer&#39;s ability to complete the project successfully and also depict that the applicant indeed understands the problem they will be tackling and accordingly can come up with the solution.
 
-**How to apply**
+### **How to apply**
 
-- Please send your proposals in a PDF format to [jyoti.bisht@jina.ai](mailto:jyoti.bisht@jina.ai) with the subject &quot;GSoD 2022 proposal&quot; before the deadline.
+- Please send your proposals in a PDF format to [devrel@jina.ai](mailto:jyoti.bisht@jina.ai) with the subject &quot;GSoD 2022 proposal&quot; before the deadline.
